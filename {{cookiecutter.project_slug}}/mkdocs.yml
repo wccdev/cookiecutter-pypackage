@@ -60,13 +60,14 @@ theme:
 plugins:
   - include-markdown
   - mkdocstrings
+  - blog
   - search:
       lang: en
   - i18n:
       default_language: en
       languages:
         en: English
-        zh: Chinese
+        zh: 中文
 
 # Customization
 extra:
