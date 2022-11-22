@@ -61,8 +61,7 @@ plugins:
   - include-markdown
   - mkdocstrings
   - blog
-  - search:
-      lang: en
+  - search
   - i18n:
       default_language: en
       languages:
